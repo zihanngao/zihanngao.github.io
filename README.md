@@ -1,7 +1,7 @@
 ## About me
 
 
-I am currently a second-year PhD student at the Information School of University of Wisconsin-Madison. I am fortunate to work with [Prof. Jacob Thebault-Spieker](https://jacob.thebault-spieker.com) and the amazing members in the [Mad Collab](https://collab.ischool.wisc.edu). My research interests lie in the social computing and Human-Computer Interaction. Before entering UW-Madison, I received my B.M. in Information Management Department and B.S. in Psychology Department from Peking University, under the supervision of [Prof. Pengyi Zhang](https://scholar.google.com/citations?user=fL6FUdkAAAAJ&hl=en). Here is my [resume](https://zihanngao.github.io/zihangao_cv_0118pdf.pdf).
+I am currently a second-year PhD student at the Information School of University of Wisconsin-Madison. I am fortunate to work with [Prof. Jacob Thebault-Spieker](https://jacob.thebault-spieker.com) and the amazing members in the [Mad Collab](https://collab.ischool.wisc.edu). My research interests lie in the social computing and Human-Computer Interaction. Before entering UW-Madison, I received my B.M. in Information Management Department and B.S. in Psychology Department from Peking University, under the supervision of [Prof. Pengyi Zhang](https://scholar.google.com/citations?user=fL6FUdkAAAAJ&hl=en). Here is my [resume](https://zihanngao.github.io/zihangao_cv_0118.pdf).
 
 
 
