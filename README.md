@@ -6,9 +6,9 @@ I am currently a second-year PhD student at the Information School of University
 
 
 ## Publications
-[1] **Zihan Gao** and Jiepu Jiang. Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions. _In Proceedings of the 30th ACM International Conference on Information and Knowledge Management **(CIKM ’21)**._[pdf](https://zihanngao.github.io/publications/cikm21_hybrid_chatbot.pdf)
+[1] **Zihan Gao** and Jiepu Jiang. Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions. _In Proceedings of the 30th ACM International Conference on Information and Knowledge Management **(CIKM ’21)**._[pdf](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf)
 
-[2]	Jieli Liu, **Zihan Gao**, Pengyi Zhang. "Exploring How Topic Characteristics Influence Online Discussion Quality." _In Proceedings of the 83rd Annual Meeting of the Association for Information Science and Technology, 2020_.(poster)[pdf](https://zihanngao.github.io/publications/poster_1.pdf)
+[2]	Jieli Liu, **Zihan Gao**, Pengyi Zhang. "Exploring How Topic Characteristics Influence Online Discussion Quality." _In Proceedings of the 83rd Annual Meeting of the Association for Information Science and Technology, 2020_.(poster)[pdf](https://zihanngao.github.io/poster_1.pdf)
 
 
 ## Teaching
