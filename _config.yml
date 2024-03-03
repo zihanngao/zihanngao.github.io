@@ -1,10 +1,12 @@
 theme: jekyll-theme-minimal
 title: Zihan Gao
 logo: IMG_6627.JPG
-description: |
-  PhD Student
-  Information School
-  University of Wisconsin-Madison
-  Madison, WI 53706
+description: "PhD Student
+  <br>Information School
+  <br>University of Wisconsin-Madison
+  <br>Madison, WI 53706
+  <br>Email: zihan [dot] gao [at] wisc [dot] edu
+  <br><a href=\"https://scholar.google.com/citations?user=ZWC-IxkAAAAJ&hl=en&oi=sra\">Google Scholar</a>
+  <br><a href=\"https://www.linkedin.com/in/zihan-gao-520a92252\">Linkedin</a>"
   
-  Email: zihan [dot] gao [at] wisc [dot] edu
+  
