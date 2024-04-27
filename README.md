@@ -7,7 +7,7 @@ My research focuses on the interplay between Human-in-the-Loop, Spatial Computin
 
 
 ## Publications
-[1] **Zihan Gao**. Jacob Thebault-Spieker. 2024. Investigating Influential Users’ Responses to Permanent Suspension on Social Media. _**CSCW 2024**_. [pdf](https://zihanngao.github.io/CSCW24_social_media_deplatform_camera_ready.pdf)
+[1] **Zihan Gao**. Jacob Thebault-Spieker. 2024. Investigating Influential Users’ Responses to Permanent Suspension on Social Media. _**CSCW 2024**_. [pdf](https://dl.acm.org/doi/10.1145/3637356)
 
 [2] **Zihan Gao**. Jiepu Jiang. Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions. _In Proceedings of the 30th ACM International Conference on Information and Knowledge Management **(CIKM 2021)**._[pdf](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf)
 
