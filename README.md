@@ -7,11 +7,13 @@ My research focuses on the interplay between Human-in-the-Loop, Spatial Computin
 
 
 ## Publications
-[1] **Zihan Gao**. Jacob Thebault-Spieker. 2024. Investigating Influential Users’ Responses to Permanent Suspension on Social Media. _**CSCW 2024**_. [pdf](https://dl.acm.org/doi/10.1145/3637356)
+[1] **Zihan Gao**. Justin Cranshaw. Jacob Thebault-Spieker. 2024. Journeying Through Sense of Place with Mental Maps: Characterizing Changing Spatial Understanding and Sense of Place During Migration for Work. _**CSCW 2024**_.
 
-[2] **Zihan Gao**. Jiepu Jiang. Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions. _In Proceedings of the 30th ACM International Conference on Information and Knowledge Management **(CIKM 2021)**._[pdf](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf)
+[2] **Zihan Gao**. Jacob Thebault-Spieker. 2024. Investigating Influential Users’ Responses to Permanent Suspension on Social Media. _**CSCW 2024**_. [pdf](https://dl.acm.org/doi/10.1145/3637356)
 
-[3]	Jieli Liu, **Zihan Gao**, Pengyi Zhang. "Exploring How Topic Characteristics Influence Online Discussion Quality." _In Proceedings of the 83rd Annual Meeting of the Association for Information Science and Technology, 2020_.(poster)[pdf](https://zihanngao.github.io/poster_1.pdf)
+[3] **Zihan Gao**. Jiepu Jiang. Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions. _In Proceedings of the 30th ACM International Conference on Information and Knowledge Management **(CIKM 2021)**._[pdf](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf)
+
+[4]	Jieli Liu, **Zihan Gao**, Pengyi Zhang. "Exploring How Topic Characteristics Influence Online Discussion Quality." _In Proceedings of the 83rd Annual Meeting of the Association for Information Science and Technology, 2020_.(poster)[pdf](https://zihanngao.github.io/poster_1.pdf)
 
 
 ## Teaching
