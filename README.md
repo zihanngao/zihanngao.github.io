@@ -7,7 +7,7 @@ My research focuses on the interplay between Human-in-the-Loop, Spatial Computin
 
 
 ## Publications
-[1] **Zihan Gao**. Justin Cranshaw. Jacob Thebault-Spieker. 2024. Journeying Through Sense of Place with Mental Maps: Characterizing Changing Spatial Understanding and Sense of Place During Migration for Work. _**CSCW 2024**_.
+[1] **Zihan Gao**. Justin Cranshaw. Jacob Thebault-Spieker. 2024. Journeying Through Sense of Place with Mental Maps: Characterizing Changing Spatial Understanding and Sense of Place During Migration for Work. _**CSCW 2024**_. [pdf](https://zihanngao.github.io/CSCW2024___Mental_Map_Research___camera_ready-3.pdf)
 
 [2] **Zihan Gao**. Jacob Thebault-Spieker. 2024. Investigating Influential Users’ Responses to Permanent Suspension on Social Media. _**CSCW 2024**_. [pdf](https://dl.acm.org/doi/10.1145/3637356)
 
