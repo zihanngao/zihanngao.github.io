@@ -8,7 +8,7 @@ My research focuses on the interplay between Location-based Computing, Human-Com
 
 ## Publications/Preprints
 **Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems**<br />
-**Zihan Gao***, Mohsin Yar Khan Yousufi*, Jacob Thebault-Spieker <br />
+**Zihan Ga\***, Mohsin Yar Khan Yousufi\*, Jacob Thebault-Spieker <br />
 *NeurIPS 2025 Workshop on Algorithmic Collective Action* (To Appear)
 
 **From Fact-Checking to Narrative Grounding: Toward Local Narrative Infrastructures for Epistemic Justice**<br />
