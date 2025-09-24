@@ -28,7 +28,7 @@ My research focuses on the interplay between Location-based Computing, Human-Com
 *CSCW 2024* [pdf](https://dl.acm.org/doi/10.1145/3687042)
 
 **Investigating Influential Users’ Responses to Permanent Suspension on Social Media**<br />
-**Zihan Gao**, Justin Cranshaw, Jacob Thebault-Spieker <br />
+**Zihan Gao**, Jacob Thebault-Spieker <br />
 *CSCW 2024* [pdf](https://dl.acm.org/doi/10.1145/3637356)
 
 **Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions**<br />
