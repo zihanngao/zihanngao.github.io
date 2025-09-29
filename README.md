@@ -1,10 +1,8 @@
 ## About me
 
-I am currently a fifth-year PhD candidate at the Information School of University of Wisconsin-Madison. I am fortunate to work with [Prof. Jacob Thebault-Spieker](https://jacob.thebault-spieker.com) and the amazing members in the [Mad Collab](https://collab.ischool.wisc.edu). Before entering UW-Madison, I received my B.M. in Information Management Department and B.S. in Psychology Department from Peking University, under the supervision of [Prof. Pengyi Zhang](https://scholar.google.com/citations?user=fL6FUdkAAAAJ&hl=en). Here is my [CV](https://zihanngao.github.io/zihangao_CV.pdf).
+I am a 5th-year Ph.D. candidate in Information Science at the University of Wisconsin-Madison, advised by [Dr. Jacob Thebault-Spieker](https://jacob.thebault-spieker.com). My research is at the intersection of Human-AI Interaction and Location-based Computing, with a current focus on LLM alignment and mitigating geographic bias in generative models [[NeurIPS '26 Workshop]][2 works in submission]. My background includes building and evaluating human-AI collaborative systems [[CIKM '21]](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf), modeling user behavior [[CSCW '24a]](https://dl.acm.org/doi/10.1145/3687042)[[CSCW '24b]](https://dl.acm.org/doi/10.1145/3637356), and developing novel computational frameworks for understanding "localness" [[Preprint]](https://arxiv.org/pdf/2505.07282)[[CSCW '25 Companion]](https://zihanngao.github.io/tiktok_cscw2025.pdf)[1 work in submission]. Prior to UW-Madison, I received my B.S. in Information Science and Psychology from Peking University, where I researched online discussion quality with [Dr. Pengyi Zhang](https://scholar.google.com/citations?user=fL6FUdkAAAAJ&hl=en) [[ASIS&T '21]](https://zihanngao.github.io/poster_1.pdf).
 
-## Research Interest
-My research focuses on the interplay between Location-based Computing, Human-Computer Interaction, and Artificial Intelligence. Moving to a new place often presents challenges that span the understanding of the local geography, culture, social integration, etc. My current projects aim to identify and address the gaps in local knowledge that newcomers face. The goal is to develop tools to provide clear, quantifiable insights into local contexts at a large scale, making it easier for people to integrate and feel at home in new environments.
-
+### I'm on job market!
 
 ## Publications/Preprints
 **Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems**<br />
