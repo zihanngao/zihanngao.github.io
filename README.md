@@ -3,6 +3,7 @@
 I am a 5th-year Ph.D. candidate in Information Science at the University of Wisconsin-Madison, advised by [Dr. Jacob Thebault-Spieker](https://jacob.thebault-spieker.com). My research is at the intersection of Human-AI Interaction and Location-based Computing, with a current focus on LLM alignment and mitigating geographic bias in generative models [[NeurIPS '26 Workshop]](#)[2 works in submission]. My background includes building and evaluating human-AI collaborative systems [[CIKM '21]](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf), modeling user behavior [[CSCW '24a]](https://dl.acm.org/doi/10.1145/3687042)[[CSCW '24b]](https://dl.acm.org/doi/10.1145/3637356), and developing novel computational frameworks for understanding "localness" [[Preprint]](https://arxiv.org/pdf/2505.07282)[[CSCW '25 Companion]](https://zihanngao.github.io/tiktok_cscw2025.pdf)[1 work in submission]. Prior to UW-Madison, I received my B.S. in Information Science and Psychology from Peking University, where I researched online discussion quality with [Dr. Pengyi Zhang](https://scholar.google.com/citations?user=fL6FUdkAAAAJ&hl=en) [[ASIS&T '21]](https://zihanngao.github.io/poster_1.pdf).
 
 ### I'm on job market!
+<br />
 
 ## Publications/Preprints
 **Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems**<br />
