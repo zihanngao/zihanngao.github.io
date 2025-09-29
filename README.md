@@ -17,7 +17,7 @@ My research focuses on the interplay between Location-based Computing, Human-Com
 
 **From Clips to Communities: Fusing Social Video into Knowledge Graphs for Localness-Aware LLMs**<br />
 **Zihan Gao**, Jiaying "Lizzy" Liu, Yifei Xu, Jacob Thebault-Spieker <br />
-*CSCW 2025* [pdf](https://zihanngao.github.io/tiktok_cscw2025.pdf)
+*CSCW 2025 Companion* [pdf](https://zihanngao.github.io/tiktok_cscw2025.pdf)
 
 **A Turing Test for ''Localness'': Conceptualizing, Defining, and Recognizing Localness in People and Machines**<br />
 **Zihan Gao**, Justin Cranshaw, Jacob Thebault-Spieker <br />
