@@ -16,7 +16,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
 
 **Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems**<br />
 **Zihan Gao\***, Mohsin Yar Khan Yousufi\*, Jacob Thebault-Spieker <br />
-*NeurIPS 2025 Workshop on Algorithmic Collective Action* [pdf](https://openreview.net/pdf?id=2ZRwKlGSDa)[poster]
+*NeurIPS 2025 Workshop on Algorithmic Collective Action* [pdf](https://openreview.net/pdf?id=2ZRwKlGSDa)[poster](https://zihanngao.github.io/nips2025_poster.pdf)
 
 **From Fact-Checking to Narrative Grounding: Toward Local Narrative Infrastructures for Epistemic Justice**<br />
 **Zihan Gao**, Jacob Thebault-Spieker <br />
