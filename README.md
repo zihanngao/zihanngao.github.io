@@ -12,11 +12,11 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
 
 **LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning**<br />
 **Zihan Gao**, Yifei Xu, Jacob Thebault-Spieker <br />
-*AAAI 2026* [pdf](https://arxiv.org/pdf/2511.10459)
+*AAAI 2026* [[pdf]](https://arxiv.org/pdf/2511.10459)
 
 **Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems**<br />
 **Zihan Gao\***, Mohsin Yar Khan Yousufi\*, Jacob Thebault-Spieker <br />
-*NeurIPS 2025 Workshop on Algorithmic Collective Action* [pdf](https://openreview.net/pdf?id=2ZRwKlGSDa)[poster](https://zihanngao.github.io/nips2025_poster.pdf)
+*NeurIPS 2025 Workshop on Algorithmic Collective Action* [[pdf]](https://openreview.net/pdf?id=2ZRwKlGSDa), [[poster]](https://zihanngao.github.io/nips2025_poster.pdf)
 
 **From Fact-Checking to Narrative Grounding: Toward Local Narrative Infrastructures for Epistemic Justice**<br />
 **Zihan Gao**, Jacob Thebault-Spieker <br />
@@ -24,27 +24,27 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
 
 **From Clips to Communities: Fusing Social Video into Knowledge Graphs for Localness-Aware LLMs**<br />
 **Zihan Gao**, Jiaying "Lizzy" Liu, Yifei Xu, Jacob Thebault-Spieker <br />
-*CSCW 2025 Companion* [pdf](https://zihanngao.github.io/tiktok_cscw2025.pdf)
+*CSCW 2025 Companion* [[pdf]](https://zihanngao.github.io/tiktok_cscw2025.pdf)
 
 **A Turing Test for ''Localness'': Conceptualizing, Defining, and Recognizing Localness in People and Machines**<br />
 **Zihan Gao**, Justin Cranshaw, Jacob Thebault-Spieker <br />
-*Preprint* [pdf](https://arxiv.org/pdf/2505.07282)
+*Preprint* [[pdf]](https://arxiv.org/pdf/2505.07282)
 
 **Journeying Through Sense of Place with Mental Maps: Characterizing Changing Spatial Understanding and Sense of Place During Migration for Work**<br />
 **Zihan Gao**, Justin Cranshaw, Jacob Thebault-Spieker <br />
-*CSCW 2024* [pdf](https://dl.acm.org/doi/10.1145/3687042)
+*CSCW 2024* [[pdf]](https://dl.acm.org/doi/10.1145/3687042)
 
 **Investigating Influential Users’ Responses to Permanent Suspension on Social Media**<br />
 **Zihan Gao**, Jacob Thebault-Spieker <br />
-*CSCW 2024* [pdf](https://dl.acm.org/doi/10.1145/3637356)
+*CSCW 2024* [[pdf]](https://dl.acm.org/doi/10.1145/3637356)
 
 **Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions**<br />
 **Zihan Gao**, Jiepu Jiang <br />
-*CIKM 2021* [pdf](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf)
+*CIKM 2021* [[pdf]](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf)
 
 **Exploring How Topic Characteristics Influence Online Discussion Quality**<br />
 Jieli Liu, **Zihan Gao**, Pengyi Zhang<br />
-*ASIS&T 2021* [pdf](https://zihanngao.github.io/poster_1.pdf)
+*ASIS&T 2021* [[pdf]](https://zihanngao.github.io/poster_1.pdf)
 
 \* co-first author
 
