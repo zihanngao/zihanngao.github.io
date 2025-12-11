@@ -1,18 +1,22 @@
 ## About me
 
-I am a 5th-year Ph.D. candidate in Information Science at the University of Wisconsin-Madison, advised by [Dr. Jacob Thebault-Spieker](https://jacob.thebault-spieker.com). My research is at the intersection of Human-AI Interaction and Location-based Computing, with a current focus on LLM alignment and mitigating geographic bias in generative models [[NeurIPS '25 Workshop]](#)[[AAAI '26]](#)[1 work in submission]. My background includes building and evaluating human-AI collaborative systems [[CIKM '21]](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf), modeling user behavior [[CSCW '24a]](https://dl.acm.org/doi/10.1145/3687042)[[CSCW '24b]](https://dl.acm.org/doi/10.1145/3637356), and developing computational systems for understanding "localness" [[Preprint]](https://arxiv.org/pdf/2505.07282)[[CSCW '25 Companion]](https://zihanngao.github.io/tiktok_cscw2025.pdf)[1 work in submission]. Prior to UW-Madison, I received my B.S. in Information Science and Psychology from Peking University, where I researched online discussion quality with [Dr. Pengyi Zhang](https://scholar.google.com/citations?user=fL6FUdkAAAAJ&hl=en) [[ASIS&T '21]](https://zihanngao.github.io/poster_1.pdf).
+I am a 5th-year Ph.D. candidate in Information Science at the University of Wisconsin-Madison, advised by [Dr. Jacob Thebault-Spieker](https://jacob.thebault-spieker.com). My research is at the intersection of Human-AI Interaction and Location-based Computing, with a current focus on LLM alignment and mitigating geographic bias in generative models [[NeurIPS '25 Workshop]](#)[[AAAI '26]](#)[[CSCW'26]](#). My background includes building and evaluating human-AI collaborative systems [[CIKM '21]](https://zihanngao.github.io/cikm21_hybrid_chatbot.pdf), modeling user behavior [[CSCW '24a]](https://dl.acm.org/doi/10.1145/3687042)[[CSCW '24b]](https://dl.acm.org/doi/10.1145/3637356), and developing computational systems for understanding "localness" [[Preprint]](https://arxiv.org/pdf/2505.07282)[[CSCW '25 Companion]](https://zihanngao.github.io/tiktok_cscw2025.pdf)[1 work in submission]. Prior to UW-Madison, I received my B.S. in Information Science and Psychology from Peking University, where I researched online discussion quality with [Dr. Pengyi Zhang](https://scholar.google.com/citations?user=fL6FUdkAAAAJ&hl=en) [[ASIS&T '21]](https://zihanngao.github.io/poster_1.pdf).
 
 ### I'm on the job market!
 <br />
 
 ## Publications/Preprints
+**Is Your Chatbot a Tourist or a Townie? Quantifying Geographic and Localness Disparities in LLM Representations of Place**<br />
+**Zihan Gao**, Jacob Thebault-Spieker <br />
+*CSCW 2026* (To Appear)
+
 **LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning**<br />
 **Zihan Gao**, Yifei Xu, Jacob Thebault-Spieker <br />
-*AAAI 2026* (To Appear)
+*AAAI 2026* [pdf](https://arxiv.org/pdf/2511.10459)
 
 **Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems**<br />
 **Zihan Gao\***, Mohsin Yar Khan Yousufi\*, Jacob Thebault-Spieker <br />
-*NeurIPS 2025 Workshop on Algorithmic Collective Action* (To Appear)
+*NeurIPS 2025 Workshop on Algorithmic Collective Action* [pdf](https://openreview.net/pdf?id=2ZRwKlGSDa)[poster]
 
 **From Fact-Checking to Narrative Grounding: Toward Local Narrative Infrastructures for Epistemic Justice**<br />
 **Zihan Gao**, Jacob Thebault-Spieker <br />
