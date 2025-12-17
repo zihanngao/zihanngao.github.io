@@ -113,6 +113,69 @@ body {
   img {
     max-width:100%;
   }
+
+  /* Profile picture hover effect with cat */
+  .profile-picture-container {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  .profile-picture-container img {
+    display: block;
+    max-width: 100%;
+    transition: opacity 0.3s ease;
+  }
+
+  .profile-picture-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .profile-picture-container:hover .profile-picture {
+    opacity: 0;
+  }
+
+  .profile-picture-container:hover .profile-picture-hover {
+    opacity: 1;
+    animation: wriggle 0.5s ease-in-out;
+  }
+
+  @keyframes wriggle {
+    0%, 100% {
+      transform: rotate(0deg) translateX(0);
+    }
+    10% {
+      transform: rotate(-3deg) translateX(-2px);
+    }
+    20% {
+      transform: rotate(3deg) translateX(2px);
+    }
+    30% {
+      transform: rotate(-2deg) translateX(-1px);
+    }
+    40% {
+      transform: rotate(2deg) translateX(1px);
+    }
+    50% {
+      transform: rotate(-1deg) translateX(-1px);
+    }
+    60% {
+      transform: rotate(1deg) translateX(1px);
+    }
+    70% {
+      transform: rotate(-1deg) translateX(0);
+    }
+    80% {
+      transform: rotate(1deg) translateX(0);
+    }
+    90% {
+      transform: rotate(0deg) translateX(0);
+    }
+  }
   
   header {
     width:280px;
