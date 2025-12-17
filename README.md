@@ -41,7 +41,8 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>From Fact-Checking to Narrative Grounding: Toward Local Narrative Infrastructures for Epistemic Justice</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">CSCW 2025 Workshop</span> on Beyond Information (To Appear)</div>
+    <div class="publication-venue"><span class="conference-badge">CSCW 2025 Workshop</span> on Beyond Information</div>
+    <div class="publication-links"><a href="https://zihanngao.github.io/assets/papers/CSCW2025b.pdf" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
