@@ -330,7 +330,27 @@ body {
   }
 
   .publication-links {
-    margin: 5px 0 0 0;
+    margin: 8px 0 0 0;
+  }
+
+  .publication-links a {
+    display: inline-block;
+    background-color: #f4f4f4;
+    color: #39c;
+    padding: 5px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 13px;
+    margin-right: 8px;
+    border: 1px solid #e0e0e0;
+    transition: all 0.2s ease;
+  }
+
+  .publication-links a:hover {
+    background-color: #39c;
+    color: white;
+    border-color: #39c;
   }
 
   @media print, screen and (max-width: 720px) {

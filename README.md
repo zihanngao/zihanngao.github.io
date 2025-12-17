@@ -22,7 +22,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Yifei Xu, Jacob Thebault-Spieker</div>
     <div class="publication-venue"><span class="conference-badge">AAAI 2026</span></div>
-    <div class="publication-links">[[pdf]](https://arxiv.org/pdf/2511.10459)</div>
+    <div class="publication-links"><a href="https://arxiv.org/pdf/2511.10459" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
@@ -32,7 +32,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems</strong></div>
     <div class="publication-authors"><strong>Zihan Gao\*</strong>, Mohsin Yar Khan Yousufi\*, Jacob Thebault-Spieker</div>
     <div class="publication-venue"><span class="conference-badge">NeurIPS 2025</span> Workshop on Algorithmic Collective Action</div>
-    <div class="publication-links">[[pdf]](https://openreview.net/pdf?id=2ZRwKlGSDa) [[poster]](https://zihanngao.github.io/assets/posters/nips2025_poster.pdf)</div>
+    <div class="publication-links"><a href="https://openreview.net/pdf?id=2ZRwKlGSDa" target="_blank" rel="noopener noreferrer">PDF</a> <a href="https://zihanngao.github.io/assets/posters/nips2025_poster.pdf" target="_blank" rel="noopener noreferrer">Poster</a></div>
   </div>
 </div>
 
@@ -51,7 +51,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>From Clips to Communities: Fusing Social Video into Knowledge Graphs for Localness-Aware LLMs</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jiaying "Lizzy" Liu, Yifei Xu, Jacob Thebault-Spieker</div>
     <div class="publication-venue"><span class="conference-badge">CSCW 2025</span> Companion</div>
-    <div class="publication-links">[[pdf]](https://zihanngao.github.io/assets/papers/tiktok_cscw2025.pdf)</div>
+    <div class="publication-links"><a href="https://zihanngao.github.io/assets/papers/tiktok_cscw2025.pdf" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
@@ -61,7 +61,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>A Turing Test for ''Localness'': Conceptualizing, Defining, and Recognizing Localness in People and Machines</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Justin Cranshaw, Jacob Thebault-Spieker</div>
     <div class="publication-venue"><span class="conference-badge">Preprint</span></div>
-    <div class="publication-links">[[pdf]](https://arxiv.org/pdf/2505.07282)</div>
+    <div class="publication-links"><a href="https://arxiv.org/pdf/2505.07282" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
@@ -71,7 +71,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>Journeying Through Sense of Place with Mental Maps: Characterizing Changing Spatial Understanding and Sense of Place During Migration for Work</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Justin Cranshaw, Jacob Thebault-Spieker</div>
     <div class="publication-venue"><span class="conference-badge">CSCW 2024</span></div>
-    <div class="publication-links">[[pdf]](https://dl.acm.org/doi/10.1145/3687042)</div>
+    <div class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3687042" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
@@ -81,7 +81,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>Investigating Influential Users' Responses to Permanent Suspension on Social Media</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
     <div class="publication-venue"><span class="conference-badge">CSCW 2024</span></div>
-    <div class="publication-links">[[pdf]](https://dl.acm.org/doi/10.1145/3637356)</div>
+    <div class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3637356" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jiepu Jiang</div>
     <div class="publication-venue"><span class="conference-badge">CIKM 2021</span></div>
-    <div class="publication-links">[[pdf]](https://zihanngao.github.io/assets/papers/cikm21_hybrid_chatbot.pdf)</div>
+    <div class="publication-links"><a href="https://zihanngao.github.io/assets/papers/cikm21_hybrid_chatbot.pdf" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
@@ -101,7 +101,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>Exploring How Topic Characteristics Influence Online Discussion Quality</strong></div>
     <div class="publication-authors">Jieli Liu, <strong>Zihan Gao</strong>, Pengyi Zhang</div>
     <div class="publication-venue"><span class="conference-badge">ASIS&T 2021</span></div>
-    <div class="publication-links">[[pdf]](https://zihanngao.github.io/assets/posters/poster_1.pdf)</div>
+    <div class="publication-links"><a href="https://zihanngao.github.io/assets/posters/poster_1.pdf" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
