@@ -51,7 +51,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>From Clips to Communities: Fusing Social Video into Knowledge Graphs for Localness-Aware LLMs</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jiaying "Lizzy" Liu, Yifei Xu, Jacob Thebault-Spieker</div>
     <div class="publication-venue"><span class="conference-badge">CSCW 2025</span> Companion</div>
-    <div class="publication-links"><a href="https://zihanngao.github.io/assets/papers/tiktok_cscw2025.pdf" target="_blank" rel="noopener noreferrer">PDF</a></div>
+    <div class="publication-links"><a href="https://dl.acm.org/doi/epdf/10.1145/3715070.3749277" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-title"><strong>Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jiepu Jiang</div>
     <div class="publication-venue"><span class="conference-badge">CIKM 2021</span></div>
-    <div class="publication-links"><a href="https://zihanngao.github.io/assets/papers/cikm21_hybrid_chatbot.pdf" target="_blank" rel="noopener noreferrer">PDF</a></div>
+    <div class="publication-links"><a href="https://dl.acm.org/doi/epdf/10.1145/3459637.3482340" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
