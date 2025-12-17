@@ -30,8 +30,8 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <img src="assets/images/publications/neurips2025_collective_narrative.jpg" alt="Collective Narrative Grounding" class="publication-image" />
   <div class="publication-content">
     <div class="publication-title"><strong>Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems</strong></div>
-    <div class="publication-authors"><strong>Zihan Gao\*</strong>, Mohsin Yar Khan Yousufi\*, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">NeurIPS 2025</span> Workshop on Algorithmic Collective Action</div>
+    <div class="publication-authors"><strong>Zihan Gao*</strong>, Mohsin Yar Khan Yousufi*, Jacob Thebault-Spieker</div>
+    <div class="publication-venue"><span class="conference-badge">NeurIPS 2025 Workshop</span> on Algorithmic Collective Action</div>
     <div class="publication-links"><a href="https://openreview.net/pdf?id=2ZRwKlGSDa" target="_blank" rel="noopener noreferrer">PDF</a> <a href="https://zihanngao.github.io/assets/posters/nips2025_poster.pdf" target="_blank" rel="noopener noreferrer">Poster</a></div>
   </div>
 </div>
@@ -41,7 +41,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>From Fact-Checking to Narrative Grounding: Toward Local Narrative Infrastructures for Epistemic Justice</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">CSCW 2025</span> Workshop on Beyond Information (To Appear)</div>
+    <div class="publication-venue"><span class="conference-badge">CSCW 2025 Workshop</span> on Beyond Information (To Appear)</div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>From Clips to Communities: Fusing Social Video into Knowledge Graphs for Localness-Aware LLMs</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jiaying "Lizzy" Liu, Yifei Xu, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">CSCW 2025</span> Companion</div>
+    <div class="publication-venue"><span class="conference-badge">CSCW 2025 Companion</span> </div>
     <div class="publication-links"><a href="https://dl.acm.org/doi/epdf/10.1145/3715070.3749277" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
