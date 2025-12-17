@@ -12,7 +12,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>Is Your Chatbot a Tourist or a Townie? Quantifying Geographic and Localness Disparities in LLM Representations of Place</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">CSCW 2026</span> (To Appear)</div>
+    <div class="publication-venue"><span class="conference-badge">ACM CSCW 2026</span> (To Appear)</div>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>From Fact-Checking to Narrative Grounding: Toward Local Narrative Infrastructures for Epistemic Justice</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">CSCW 2025 Workshop</span> on Beyond Information</div>
+    <div class="publication-venue"><span class="conference-badge">ACM CSCW 2025 Workshop</span> on Beyond Information</div>
     <div class="publication-links"><a href="https://zihanngao.github.io/assets/papers/CSCW2025b.pdf" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
@@ -51,7 +51,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>From Clips to Communities: Fusing Social Video into Knowledge Graphs for Localness-Aware LLMs</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jiaying "Lizzy" Liu, Yifei Xu, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">CSCW 2025 Companion</span> </div>
+    <div class="publication-venue"><span class="conference-badge">ACM CSCW 2025 Companion</span> </div>
     <div class="publication-links"><a href="https://dl.acm.org/doi/epdf/10.1145/3715070.3749277" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
@@ -71,7 +71,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>Journeying Through Sense of Place with Mental Maps: Characterizing Changing Spatial Understanding and Sense of Place During Migration for Work</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Justin Cranshaw, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">CSCW 2024</span></div>
+    <div class="publication-venue"><span class="conference-badge">ACM CSCW 2024</span></div>
     <div class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3687042" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
@@ -81,7 +81,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>Investigating Influential Users' Responses to Permanent Suspension on Social Media</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">CSCW 2024</span></div>
+    <div class="publication-venue"><span class="conference-badge">ACM CSCW 2024</span></div>
     <div class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3637356" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
@@ -91,7 +91,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jiepu Jiang</div>
-    <div class="publication-venue"><span class="conference-badge">CIKM 2021</span></div>
+    <div class="publication-venue"><span class="conference-badge">ACM CIKM 2021</span></div>
     <div class="publication-links"><a href="https://dl.acm.org/doi/epdf/10.1145/3459637.3482340" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
