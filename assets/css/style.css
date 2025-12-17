@@ -65,8 +65,8 @@ body {
   }
   
   .wrapper {
-    max-width:1400px;
-    width:95%;
+    max-width:1260px;
+    width:90%;
     margin:0 auto;
   }
   
@@ -121,9 +121,14 @@ body {
     cursor: pointer;
   }
 
+  .profile-picture-container {
+    max-width: 200px;
+  }
+
   .profile-picture-container img {
     display: block;
     max-width: 100%;
+    width: 100%;
     transition: opacity 0.3s ease;
   }
 
@@ -245,7 +250,7 @@ body {
   
   section {
     width:calc(100% - 320px);
-    max-width:1100px;
+    max-width:990px;
     float:right;
     padding-bottom:50px;
   }
