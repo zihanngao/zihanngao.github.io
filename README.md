@@ -12,7 +12,8 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>Is Your Chatbot a Tourist or a Townie? Quantifying Geographic and Localness Disparities in LLM Representations of Place</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">ACM CSCW 2026</span> (To Appear)</div>
+    <div class="publication-venue"><span class="conference-badge">ACM CSCW 2026</span></div>
+    <div class="publication-links"><a href="https://zihanngao.github.io/assets/papers/cscw2026.pdf" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
