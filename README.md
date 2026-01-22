@@ -8,6 +8,15 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
 ## Publications/Preprints
 
 <div class="publication">
+  <img src="assets/images/publications/chi2026_placeweave.jpg" alt="PlaceWeave: Understanding Place Through Social Video Narratives and Graph-Enhanced Local Knowledge" class="publication-image" />
+  <div class="publication-content">
+    <div class="publication-title"><strong>PlaceWeave: Understanding Place Through Social Video Narratives and Graph-Enhanced Local Knowledge</strong></div>
+    <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
+    <div class="publication-venue"><span class="conference-badge">ACM CHI 2026</span>(To Appear)</div>
+  </div>
+</div>
+
+<div class="publication">
   <img src="assets/images/publications/cscw2026_tourist_townie.jpg" alt="Is Your Chatbot a Tourist or a Townie?" class="publication-image" />
   <div class="publication-content">
     <div class="publication-title"><strong>Is Your Chatbot a Tourist or a Townie? Quantifying Geographic and Localness Disparities in LLM Representations of Place</strong></div>
