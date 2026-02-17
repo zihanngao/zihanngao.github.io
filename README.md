@@ -12,7 +12,8 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
   <div class="publication-content">
     <div class="publication-title"><strong>PlaceWeave: Understanding Place Through Social Video Narratives and Graph-Enhanced Local Knowledge</strong></div>
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
-    <div class="publication-venue"><span class="conference-badge">ACM CHI 2026</span>(To Appear)</div>
+    <div class="publication-venue"><span class="conference-badge">ACM CHI 2026</span></div>
+    <div class="publication-links"><a href="https://zihanngao.github.io/assets/papers/chi26-1600-2.pdf" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
