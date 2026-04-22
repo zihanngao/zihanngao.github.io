@@ -1,11 +1,21 @@
 ## About me
 
-I am a 5th-year Ph.D. candidate in Information Science at the University of Wisconsin-Madison, advised by [Dr. Jacob Thebault-Spieker](https://jacob.thebault-spieker.com). My research is at the intersection of Human-AI Interaction and Location-based Computing, with a current focus on LLM alignment and mitigating geographic bias in generative models [[NeurIPS '25 Workshop]](https://openreview.net/pdf?id=2ZRwKlGSDa)[[AAAI '26]](https://arxiv.org/pdf/2511.10459)[[CSCW'26]](https://zihanngao.github.io/assets/papers/cscw2026.pdf). My background includes building and evaluating human-AI collaborative systems [[CIKM '21]](https://zihanngao.github.io/assets/papers/cikm21_hybrid_chatbot.pdf), modeling user behavior [[CSCW '24a]](https://dl.acm.org/doi/10.1145/3687042)[[CSCW '24b]](https://dl.acm.org/doi/10.1145/3637356), and developing computational systems for understanding "localness" [[Preprint]](https://arxiv.org/pdf/2505.07282)[[CSCW '25 Companion]](https://zihanngao.github.io/assets/papers/tiktok_cscw2025.pdf)[[CHI '26]](#). Prior to UW-Madison, I received my B.S. in Information Science and Psychology from Peking University, where I researched online discussion quality with [Dr. Pengyi Zhang](https://scholar.google.com/citations?user=fL6FUdkAAAAJ&hl=en) [[ASIS&T '21]](https://zihanngao.github.io/assets/posters/poster_1.pdf).
+I am a 5th-year Ph.D. candidate in Information Science at the University of Wisconsin-Madison, advised by [Dr. Jacob Thebault-Spieker](https://jacob.thebault-spieker.com). My research is at the intersection of Human-AI Interaction and Location-based Computing, with a current focus on LLM alignment and mitigating geographic bias in generative models [[NeurIPS '25 Workshop]](https://openreview.net/pdf?id=2ZRwKlGSDa)[[AAAI '26]](https://arxiv.org/pdf/2511.10459)[[CSCW'26]](https://zihanngao.github.io/assets/papers/cscw2026.pdf). My background includes building and evaluating human-AI collaborative systems [[CIKM '21]](https://zihanngao.github.io/assets/papers/cikm21_hybrid_chatbot.pdf), modeling user behavior [[CSCW '24a]](https://dl.acm.org/doi/10.1145/3687042)[[CSCW '24b]](https://dl.acm.org/doi/10.1145/3637356), and developing computational systems for understanding "localness" [[Preprint]](https://arxiv.org/pdf/2505.07282)[[CSCW '25 Companion]](https://zihanngao.github.io/assets/papers/tiktok_cscw2025.pdf)[[CHI '26]](#). Prior to UW-Madison, I received my B.S. in Information Science and Psychology from Peking University, where I researched online discussion quality with [Dr. Pengyi Zhang](https://scholar.google.com/citations?user=fL6FUdkAAAAJ&hl=en) [[ASIS&T '21]](https://zihanngao.github.io/assets/posters/poster_1.pdf). Here is my [CV](https://zihanngao.github.io/assets/cv/Zihan_CV-28.pdf). 
 
 ### 🚀 I am on the Job Market (2026): Seeking both Academia and Industry roles. I'd love to chat about my work on local AI and potential opportunities 👉 [✉️](mailto:zihan.gao@wisc.edu?subject=Job%20market%20chat&body=Hi%20Zihan%2C%0A%0A...).
 <br />
 
 ## Publications/Preprints
+
+<div class="publication">
+  <img src="assets/images/publications/facct26.jpg" alt="The Labor of Language: Auditing Dialectal Erasure and the Repair Burden in Swahili Machine Translation" class="publication-image" />
+  <div class="publication-content">
+    <div class="publication-title"><strong>The Labor of Language: Auditing Dialectal Erasure and the Repair Burden in Swahili Machine Translation</strong></div>
+    <div class="publication-authors"><strong>Zihan Gao*</strong>, Yinka Ajibola*, Jacob Thebault-Spieker</div>
+    <div class="publication-venue"><span class="conference-badge">ACM FAccT 2026</span></div>
+    <div class="publication-links"><a href="" target="_blank" rel="noopener noreferrer">To Appear</a></div>
+  </div>
+</div>
 
 <div class="publication">
   <img src="assets/images/publications/chi2026_placeweave.jpg" alt="PlaceWeave: Understanding Place Through Social Video Narratives and Graph-Enhanced Local Knowledge" class="publication-image" />
