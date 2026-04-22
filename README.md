@@ -34,6 +34,7 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-authors"><strong>Zihan Gao</strong>, Yifei Xu, Jacob Thebault-Spieker</div>
     <div class="publication-venue"><span class="conference-badge">AAAI 2026</span></div>
     <div class="publication-links"><a href="https://arxiv.org/pdf/2511.10459" target="_blank" rel="noopener noreferrer">PDF</a></div>
+    <div class="publication-links"><a href="https://github.com/MadCollab/LocalBench/tree/main" target="_blank" rel="noopener noreferrer">Code</a></div>
   </div>
 </div>
 
