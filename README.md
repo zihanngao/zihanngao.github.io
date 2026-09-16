@@ -8,6 +8,23 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
 ## Publications/Preprints
 
 <div class="publication">
+  <img src="assets/images/publications/cscw2026_tourist_townie.jpg" alt="Is Your Chatbot a Tourist or a Townie?" class="publication-image" />
+  <div class="publication-content">
+    <div class="publication-title"><strong>Is Your Chatbot a Tourist or a Townie? Quantifying Geographic and Localness Disparities in LLM Representations of Place</strong></div>
+    <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
+    <!-- <div class="publication-venue"><span class="conference-badge">ACM CSCW 2026</span></div> -->
+    <div class="publication-venue publication-venue--awarded">
+  <span class="conference-badge">ACM CSCW 2026</span>
+  <span class="award-badge">
+    <span aria-hidden="true">🏅</span>
+    Method Recognition Award
+  </span>
+</div>
+    <div class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3788058" target="_blank" rel="noopener noreferrer">PDF</a></div>
+  </div>
+</div>
+
+<div class="publication">
   <img src="assets/images/publications/facct26.jpg" alt="The Labor of Language: Auditing Dialectal Erasure and the Repair Burden in Swahili Machine Translation" class="publication-image" />
   <div class="publication-content">
     <div class="publication-title"><strong>The Labor of Language: Auditing Dialectal Erasure and the Repair Burden in Swahili Machine Translation</strong></div>
@@ -24,23 +41,6 @@ I am a 5th-year Ph.D. candidate in Information Science at the University of Wisc
     <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
     <div class="publication-venue"><span class="conference-badge">ACM CHI 2026</span></div>
     <div class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3772318.3791894" target="_blank" rel="noopener noreferrer">PDF</a></div>
-  </div>
-</div>
-
-<div class="publication">
-  <img src="assets/images/publications/cscw2026_tourist_townie.jpg" alt="Is Your Chatbot a Tourist or a Townie?" class="publication-image" />
-  <div class="publication-content">
-    <div class="publication-title"><strong>Is Your Chatbot a Tourist or a Townie? Quantifying Geographic and Localness Disparities in LLM Representations of Place</strong></div>
-    <div class="publication-authors"><strong>Zihan Gao</strong>, Jacob Thebault-Spieker</div>
-    <!-- <div class="publication-venue"><span class="conference-badge">ACM CSCW 2026</span></div> -->
-    <div class="publication-venue publication-venue--awarded">
-  <span class="conference-badge">ACM CSCW 2026</span>
-  <span class="award-badge">
-    <span aria-hidden="true">🏅</span>
-    Method Recognition Award
-  </span>
-</div>
-    <div class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3788058" target="_blank" rel="noopener noreferrer">PDF</a></div>
   </div>
 </div>
 
