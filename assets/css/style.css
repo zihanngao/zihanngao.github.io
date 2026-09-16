@@ -444,3 +444,24 @@ body {
       object-fit: cover;
     }
   }
+
+.publication-venue--awarded {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.award-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  padding: 0.2em 0.65em;
+  border: 1px solid #e8cc80;
+  border-radius: 4px;
+  background-color: #fff7df;
+  color: #795500;
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1.4;
+}
